@@ -33,9 +33,10 @@ Thumbs.db
 
 # Node / Remotion (installed on demand, not vendored)
 node_modules/
-package-lock.json
 yarn.lock
 .npm/
+.vite/
+out/
 
 # Manim render artifacts (when running skills/manim-video scripts locally)
 media/
